@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\bin\Debug\Weatherss.exe.config
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\bin\Debug\Weatherss.exe
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\bin\Debug\Weatherss.pdb
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\obj\Debug\Weatherss.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\obj\Debug\Weatherss.Form1.resources
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\obj\Debug\Weatherss.Properties.Resources.resources
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.CopyComplete
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\obj\Debug\Weatherss.exe
+C:\Users\DELL\Documents\LapTrinhAPI\Weatherss\Weatherss\obj\Debug\Weatherss.pdb
